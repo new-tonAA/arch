@@ -1,0 +1,28 @@
+《窗》THE WINDOW — CREDITS
+
+Picture
+  Every frame is drawn in code (Canvas 2D, HTML/JavaScript). No video generation,
+  no stock footage, no photographs.
+
+Voice
+  Mandarin narration synthesized with gTTS (Google Translate text-to-speech).
+  No human recording was used. Review Google's terms before any commercial use.
+
+Music and sound
+  Original score and foley, synthesized from scratch with numpy/scipy in
+  audio/score.py. No sample libraries, no existing melodies.
+
+Fonts
+  IM Fell English, Fredoka, Lilita One, ZCOOL KuaiLe — SIL Open Font License,
+  from the lemo-opuscar core/fonts collection (see fonts/OFL.md).
+  Source Han Serif SC, Microsoft YaHei, KaiTi, Georgia, Consolas, Bahnschrift —
+  fonts present on the production system; not redistributed.
+
+Historical references
+  See FACTS.md for each claim, its source and the wording found there.
+  No real building is depicted; every building is a fictional stand-in drawn
+  in the grammar of its period.
+
+Tools
+  lemo-opuscar core/render (Playwright/Chromium, ffmpeg) for capture and mux;
+  ffmpeg for loudness normalisation; Python for score and voice preparation.
