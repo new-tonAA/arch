@@ -1,0 +1,25 @@
+《建筑年表》 / A Timeline of Buildings — CREDITS
+
+Picture
+  Every frame is drawn in code (Canvas 2D, HTML/JavaScript). No photographs,
+  stock footage, plans or video generation.
+
+Buildings
+  72 simplified diagrams, each an original code drawing. Names, cities and
+  dates identify real buildings; the drawings are not to scale and are not
+  reproductions of drawings, models or photographs. Modern buildings remain
+  the intellectual property of their architects; no endorsement is implied.
+
+Music and sound
+  Original score and foley synthesized from scratch with numpy/scipy in
+  audio/score.py. No sample libraries, no existing melodies.
+
+Fonts
+  IM Fell English, Fredoka, Lilita One, ZCOOL KuaiLe — SIL Open Font License,
+  from the lemo-opuscar core/fonts collection (see fonts/OFL.md).
+  Source Han Serif SC, Microsoft YaHei, KaiTi, Georgia, Consolas, Bahnschrift —
+  fonts present on the production system; not redistributed.
+
+Facts
+  See FACTS.md for the 72 dates and their source links, plus notes on
+  contested or start-vs-completion dates.
